@@ -1,11 +1,13 @@
 ![IMG_20211130_224908](https://user-images.githubusercontent.com/92205452/144098417-2de7e6ca-db6a-4096-92d2-46e75822616a.jpg)
 
-<h1 align="center">Hi 👋, I'm Deepak Mehra</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmehra1&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmehra1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakmehra1" alt="deepakmehra1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h1 align="center">Hi 👋, I'm Deepak Mehra</h1>
 
 - 📫 How to reach me **deepakmehraaga@gmail.com**
 
