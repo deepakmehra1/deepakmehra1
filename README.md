@@ -1,4 +1,5 @@
-![banner](banner.png)
+![IMG_20211130_224908](https://user-images.githubusercontent.com/92205452/144098417-2de7e6ca-db6a-4096-92d2-46e75822616a.jpg)
+
 <h1 align="center">Hi 👋, I'm Deepak Mehra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmehra1&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmehra1" /> </p>
 
