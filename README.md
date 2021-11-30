@@ -9,7 +9,12 @@
 
 <h1 align="left">Hi 👋, I'm Deepak Mehra</h1>
 
+- 🎓 **CSE Undergraduate at MANIT Bhopal**
+- 💻 **Enhancing my Skills**
 - 📫 How to reach me **deepakmehraaga@gmail.com**
+- 🔭 I’m currently working on **Android Development Skills**
+- 📄 Resume [https://silly-wozniak-8c8c1f.netlify.app/#contact](https://silly-wozniak-8c8c1f.netlify.app/#contact)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
