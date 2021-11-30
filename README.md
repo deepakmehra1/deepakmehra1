@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Hi 👋, I'm Deepak Mehra</h1>
+<h1 align="left">Hi 👋, I'm Deepak Mehra</h1>
 
 - 📫 How to reach me **deepakmehraaga@gmail.com**
 
