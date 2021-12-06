@@ -11,7 +11,7 @@
 - 💻 **Enhancing my Skills**
 - 📫 How to reach me **deepakmehraaga@gmail.com**
 - 🔭 I’m currently working on **Android Development Skills**
-- 📄 Resume [check my resume](relaxed-keller-3c6733.netlify.app)
+- 📄 Resume [check my resume](http://relaxed-keller-3c6733.netlify.app)
 
 
 <h3 align="left">Connect with me:</h3>
